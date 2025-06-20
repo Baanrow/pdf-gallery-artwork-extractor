@@ -54,10 +54,11 @@ This script will:
 - Each artwork record receives a **confidence score** based on the fields found.
 - Image data is trimmed in JSON to prevent large files — adjust if full output is needed.
 - Built-in filtering ensures robustness across varied catalogs or page structures.
+- This project reflects a reusable structure designed to digitize rich visual and textual content from domain-specific sources like gallery catalogs or educational records.
 
 ---
 
 ## 👤 About
 
 Created by Brett C.  
-I develop modular Python automation pipelines that handle real-world document processing, metadata extraction, and scalable backend integrations. This project reflects a reusable structure designed to digitize rich visual and textual content from domain-specific sources like gallery catalogs or educational records.
+I develop modular Python automation pipelines that handle real-world document processing, metadata extraction, and scalable backend integrations.
